@@ -1,0 +1,4 @@
+C:\Users\Homesman\Desktop\Trabajo_final V3.0\Trabajo_final\x64\Debug\Trabajo_final.vcxproj.AssemblyReference.cache
+C:\Users\Homesman\Desktop\Trabajo_final V4.0\Trabajo_final\x64\Debug\Trabajo_final.vcxproj.AssemblyReference.cache
+C:\Users\Homesman\Desktop\Trabajo_final V5.0\Trabajo_final\x64\Debug\Trabajo_final.vcxproj.AssemblyReference.cache
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\x64\Debug\Trabajo_final.vcxproj.AssemblyReference.cache

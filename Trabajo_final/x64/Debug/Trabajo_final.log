@@ -1,0 +1,273 @@
+﻿  Trabajo_final.cpp
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(134,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(229,21): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(336,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(337,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(338,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(339,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(357,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(358,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(359,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(361,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(362,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(363,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(364,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(365,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(366,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(367,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(368,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(369,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(390,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(391,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(392,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(393,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(405,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(406,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(407,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(412,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(432,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(470,43): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(477,39): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(488,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(497,19): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(524,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(460,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(572,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(617,18): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(620,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(621,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(622,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(623,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(624,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(625,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(628,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(629,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(630,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(631,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(632,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(633,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(636,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(637,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(638,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(639,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(640,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(641,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(644,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(645,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(646,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(647,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(648,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(649,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(656,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(657,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(658,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(659,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(660,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(661,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(664,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(665,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(666,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(667,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(668,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(669,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(672,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(673,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(674,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(675,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(676,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(677,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(680,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(681,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(682,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(683,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(684,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(685,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(686,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(693,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(694,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(695,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(698,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(699,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+C:\Users\Homesman\Desktop\Trabajo_final V5.1\Trabajo_final\Mi_bibliotecav2.h(700,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Trabajo_final.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Trabajo_final.vcxproj -> C:\Users\Homesman\Desktop\Trabajo_final V5.1\x64\Debug\Trabajo_final.exe
